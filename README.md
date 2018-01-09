@@ -1,1 +1,2 @@
 # BCI-playground
+DTU-stu
